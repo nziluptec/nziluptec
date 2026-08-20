@@ -5,68 +5,69 @@
 </p>
 
 <p align="center">
-  <b>Soluções Inteligentes para Problemas Reais</b><br>
-  <i>Desenvolvimento de Software • Inteligência Artificial On-Device • Consultoria & Formação Técnica</i>
+  <b>Smart Solutions for Real-World Challenges</b><br>
+  <i>Software Development • On-Device Artificial Intelligence • Consulting & Technical Training</i>
 </p>
 
 <p align="center">
-  <a href="#-sobre-a-nzilup-tec">Sobre</a> •
-  <a href="#-áreas-de-atuação">Atuação</a> •
-  <a href="#-projetos-em-destaque">Projetos</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-contacto">Contacto</a>
+  <a href="#-about-nzilup-tec">About</a> •
+  <a href="#-core-services">Services</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-contact-us">Contact</a>
 </p>
 
 ---
 
-## 🌍 Sobre a Nzilup Tec.
+## 🌍 About Nzilup Tec.
 
-A **Nzilup Tec.** é uma empresa de tecnologia focada em conceber, desenvolver e implementar aplicações inteligentes e sistemas de software de alto impacto. 
+**Nzilup Tec.** is a technology company focused on designing, developing, and deploying intelligent software solutions that deliver real-world impact.
 
-Inspirada no conceito Bantu *Nzila* (o caminho, a jornada), a nossa missão é construir o caminho para a transformação digital e autonomia tecnológica em África, unindo **engenharia moderna**, **computação científica** e **inteligência artificial contextualizada**.
-
----
-
-## 🛠️ Áreas de Atuação
-
-* **Desenvolvimento de Software:** Aplicações web, mobile e sistemas desktop robustos, escaláveis e focados na experiência do utilizador.
-* **Inteligência Artificial & Machine Learning:** Soluções de IA *on-device*, motores de raciocínio científico e processamento de linguagem natural (LLM local).
-* **Consultoria & Arquitectura de Sistemas:** Diagnóstico técnico, optimização de performance e concepção de arquitecturas para desafios complexos.
-* **Capacitação & Formação Técnica:** Treinamentos práticos em desenvolvimento de software, ciência de dados e engenharia de IA.
+Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is to build the pathway for digital transformation and technological independence across Africa. We combine **modern software engineering**, **scientific computing**, and **context-aware artificial intelligence**.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Core Services
+
+* **Software Development:** Building robust, scalable, and user-friendly web, mobile, and desktop applications.
+* **Artificial Intelligence & Machine Learning:** Developing *on-device* AI solutions, scientific reasoning engines, and local Large Language Models (LLMs).
+* **Systems Architecture & Consulting:** Offering technical diagnostics, performance optimization, and architectural design for complex challenges.
+* **Technical Training & Workshops:** Providing practical training in software development, data science, and AI engineering.
+
+---
+
+## 🚀 Featured Projects
 
 ### 🧮 AfriSolve (NziLabs)
 > **Local Science, Offline Decision, African Future.**
 
-O **AfriSolve** é um assistente de raciocínio científico e matemático totalmente *offline*, concebido para rodar em hardware acessível (CPU local). O sistema combina LLMs locais com motores matemáticos e científicos determinísticos para simular cenários e resolver problemas reais em:
-* 🌾 **AgroSolve:** Matemática aplicada à agricultura e previsão de produtividade.
-* 🌦️ **ClimateSolve:** Estatística e análise de dados climáticos locais.
-* 🧪 **ScienceLab:** Simulações científicas e experimentação virtual.
-* 🏗️ **BuildSolve & MathLab:** Modelagem para construção civil e núcleo matemático.
+**AfriSolve** is an offline scientific and mathematical reasoning assistant designed to run on accessible, standard hardware (local CPU). The platform combines local LLMs with deterministic mathematical and scientific engines to simulate scenarios and solve real-world problems in:
+
+* 🌾 **AgroSolve:** Applied mathematics for agriculture and yield forecasting.
+* 🌦️ **ClimateSolve:** Statistical analysis and local climate data processing.
+* 🧪 **ScienceLab:** Scientific simulations and virtual experiments.
+* 🏗️ **BuildSolve & MathLab:** Modeling for civil engineering and core mathematical computing.
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <p align="left">
-  <b>Linguagens & Frameworks:</b> C# / .NET, Python, Node.js, Express, Flutter, React.js<br>
-  <b>Base de Dados & Storage:</b> MongoDB, PostgreSQL, SQLite, Vector Databases<br>
-  <b>IA & Deep Tech:</b> Local LLMs, RAG Architecture, ONNX Runtime, Quantização de Modelos<br>
-  <b>DevOps & Infra:</b> Git, Docker, Render, Linux Environments
+  <b>Languages & Frameworks:</b> C# / .NET, Python, Node.js, Express, Flutter, React.js<br>
+  <b>Databases & Storage:</b> MongoDB, PostgreSQL, SQLite, Vector Databases<br>
+  <b>AI & Deep Tech:</b> Local LLMs, RAG Architecture, ONNX Runtime, Model Quantization<br>
+  <b>DevOps & Infrastructure:</b> Git, Docker, Render, Linux Environments
 </p>
 
 ---
 
-## ✉️ Contacto & Conexão
+## ✉️ Contact Us
 
-Estamos abertos a parcerias, projectos de impacto e colaborações académicas ou empresariais.
+We welcome partnerships, impact-driven projects, and academic or business collaborations.
 
-* 📍 **Localização:** Angola
+* 📍 **Location:** Angola
 * 💼 **GitHub:** [@nziluptec](https://github.com/nziluptec)
-* 📧 **Email:** [contacto@nziluptec.com](mailto:contacto@nziluptec.com)
+* 📧 **Email:** [contact@nziluptec.com](mailto:contact@nziluptec.com)
 
 ---
 
