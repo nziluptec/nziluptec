@@ -21,7 +21,7 @@
 
 ## 🌍 About Nzilup Tec.
 
-**Nzilup Tec.** is a technology company focused on designing, developing, and deploying intelligent software solutions that deliver real-world impact.
+**Nzilup Tec.** is a technology startup focused on designing, developing, and deploying intelligent software solutions that deliver real-world impact.
 
 Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is to build the pathway for digital transformation and technological independence across Africa. We combine **modern software engineering**, **scientific computing**, and **context-aware artificial intelligence**.
 
@@ -38,10 +38,10 @@ Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is 
 
 ## 🚀 Featured Projects
 
-### 🧮 AfriSolve (NziLabs)
+### 🧮 NziLabs
 > **Local Science, Offline Decision, African Future.**
 
-**AfriSolve** is an offline scientific and mathematical reasoning assistant designed to run on accessible, standard hardware (local CPU). The platform combines local LLMs with deterministic mathematical and scientific engines to simulate scenarios and solve real-world problems in:
+**NziLabs** is an offline scientific and mathematical reasoning assistant designed to run on accessible, standard hardware (local CPU). The platform combines local LLMs with deterministic mathematical and scientific engines to simulate scenarios and solve real-world problems in:
 
 * 🌾 **AgroSolve:** Applied mathematics for agriculture and yield forecasting.
 * 🌦️ **ClimateSolve:** Statistical analysis and local climate data processing.
@@ -53,10 +53,10 @@ Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is 
 ## 💻 Tech Stack
 
 <p align="left">
-  <b>Languages & Frameworks:</b> C# / .NET, Python, Node.js, Express, Flutter, React.js<br>
-  <b>Databases & Storage:</b> MongoDB, PostgreSQL, SQLite, Vector Databases<br>
-  <b>AI & Deep Tech:</b> Local LLMs, RAG Architecture, ONNX Runtime, Model Quantization<br>
-  <b>DevOps & Infrastructure:</b> Git, Docker, Render, Linux Environments
+  <b>Languages & Frameworks:</b> C# / .NET, Java, Python, Node.js, Express, Flutter, React.js<br>
+  <b>Databases & Storage:</b> MongoDB, SQL Sever, PostgreSQL, SQLite, Vector Databases<br>
+  <b>AI & Deep Tech:</b> Local LLMs, RAG Architecture, Model Quantization<br>
+  <b>DevOps & Infrastructure:</b> Git, Docker, AWS, Render, Linux Environments
 </p>
 
 ---
@@ -65,9 +65,8 @@ Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is 
 
 We welcome partnerships, impact-driven projects, and academic or business collaborations.
 
-* 📍 **Location:** Angola
-* 💼 **GitHub:** [@nziluptec](https://github.com/nziluptec)
-* 📧 **Email:** [contact@nziluptec.com](mailto:contact@nziluptec.com)
+* 📍 **Location:** CTT, Rangel - Luanda, Angola
+* 📧 **Email:** [contact@nziluptec.com](mailto:nzilup.tec@gmail.com)
 
 ---
 
