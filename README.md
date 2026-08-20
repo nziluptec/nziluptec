@@ -53,7 +53,8 @@ Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is 
 ## 💻 Tech Stack
 
 <p align="left">
-  <b>Languages & Frameworks:</b> C# / .NET, Java, Python, Node.js, Express, Flutter, React.js<br>
+  <b>Languages:</b> C#, Java, Python, PHP, ASP.NET Core, Spring, Laravel, JavaScript, TypeScript<br>
+  <b>Frameworks:</b> .NET / ASP.NET Core, Spring, Laravel, React.js, Streamlit<br>
   <b>Databases & Storage:</b> MongoDB, SQL Sever, PostgreSQL, SQLite, Vector Databases<br>
   <b>AI & Deep Tech:</b> Local LLMs, RAG Architecture, Model Quantization<br>
   <b>DevOps & Infrastructure:</b> Git, Docker, AWS, Render, Linux Environments
@@ -66,7 +67,7 @@ Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is 
 We welcome partnerships, impact-driven projects, and academic or business collaborations.
 
 * 📍 **Location:** CTT, Rangel - Luanda, Angola
-* 📧 **Email:** [contact@nziluptec.com](mailto:nzilup.tec@gmail.com)
+* 📧 **Email:** [nzilup.tec@gmail.com](mailto:nzilup.tec@gmail.com)
 
 ---
 
