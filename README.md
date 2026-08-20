@@ -1,7 +1,7 @@
 # Nzilup Tec. — Smart Solutions
 
 <p align="center">
-  <img src="./logo-github.jpg" alt="Nzilup Tec. Logo" width="180"/>
+  <img src="./logo-github.png" alt="Nzilup Tec. Logo" width="180"/>
 </p>
 
 <p align="center">
