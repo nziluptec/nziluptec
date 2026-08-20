@@ -46,7 +46,6 @@ Inspired by the Bantu concept *Nzila* (meaning path or journey), our mission is 
 * 🌾 **AgroSolve:** Applied mathematics for agriculture and yield forecasting.
 * 🌦️ **ClimateSolve:** Statistical analysis and local climate data processing.
 * 🧪 **ScienceLab:** Scientific simulations and virtual experiments.
-* 🏗️ **BuildSolve & MathLab:** Modeling for civil engineering and core mathematical computing.
 
 ---
 
